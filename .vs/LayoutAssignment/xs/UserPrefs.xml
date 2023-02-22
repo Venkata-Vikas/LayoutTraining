@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0DABD75F-FF62-4F01-9FEF-CEFDCB30E0A4}|Default">
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.ItemProperties.LayoutAssignment.Android PreferredExecutionTarget="Android.pixel_3a_xl_-_api_33" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LayoutAssignment/LayoutAssignment/MainPage.xaml">
+    <Files>
+      <File FileName="LayoutAssignment/LayoutAssignment/MainPage.xaml" Line="10" Column="91" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LayoutAssignment" expanded="True">
+            <Node name="LayoutAssignment" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_3a_xl_-_api_33" />
+</Properties>
